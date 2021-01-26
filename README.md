@@ -1,6 +1,6 @@
 # homy-shop 
 
-<a href="https://insidiousden.github.io/homy-shop/index.html">Online shop</a>
+<a href="https://github.com/AntonBazhan/homy-shop-main/index.html">Online shop</a>
 
 Создать страницу, с адаптивным дизайном, согласно предоставленному шаблону.
 
